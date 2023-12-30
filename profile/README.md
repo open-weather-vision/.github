@@ -1,7 +1,8 @@
 # Share your weather station data to anyone!
 
 Currently we are developing a set of applications that will enable you to
-- record 
+- record
+- archive
 - analyze
 
 and
