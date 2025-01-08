@@ -32,3 +32,4 @@ In short:
   - You can connect multiple weather stations to our software
 - Admin panel
   - In the admin panel you can configure your weather stations and troubleshoot connection issues
+  - Additionally you can configure to hide some weather data from the public (e.g. inside temperature)
